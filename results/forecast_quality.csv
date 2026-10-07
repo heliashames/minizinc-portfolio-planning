@@ -1,0 +1,4 @@
+asset,MAE_pct,MAE_zero_forecast_pct,direction_accuracy_pct
+gold,1.47,1.55,61.7
+btc,5.0,4.94,51.06
+eth,7.2,7.13,57.45

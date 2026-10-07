@@ -1,0 +1,6 @@
+,final_wealth,roi_pct,max_drawdown_pct
+Strategy (MiniZinc),51531.43,3.06,-35.95
+buy&hold GOLD,66239.75,32.48,-6.39
+buy&hold BTC,67481.42,34.96,-23.12
+buy&hold ETH,38670.8,-22.66,-39.95
+bonds only,53335.58,6.67,0.0
